@@ -66,6 +66,6 @@ Open `http://localhost:5173` in your browser.
 
 ## Author
 
-**Aman**
+**Aman Sai**
 
 GitHub: [https://github.com/Aman-ai300](https://github.com/Aman-ai300)
